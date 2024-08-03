@@ -1,0 +1,87 @@
+C:\Users\gokal\source\repos\AlbumStore\obj\Debug\net6.0-windows\AlbumStore.Form1.resources
+C:\Users\gokal\source\repos\AlbumStore\obj\Debug\net6.0-windows\AlbumStore.Properties.Resources.resources
+C:\Users\gokal\source\repos\AlbumStore\obj\Debug\net6.0-windows\AlbumStore.csproj.GenerateResource.cache
+C:\Users\gokal\source\repos\AlbumStore\obj\Debug\net6.0-windows\AlbumStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gokal\source\repos\AlbumStore\obj\Debug\net6.0-windows\AlbumStore.AssemblyInfoInputs.cache
+C:\Users\gokal\source\repos\AlbumStore\obj\Debug\net6.0-windows\AlbumStore.AssemblyInfo.cs
+C:\Users\gokal\source\repos\AlbumStore\obj\Debug\net6.0-windows\AlbumStore.csproj.CoreCompileInputs.cache
+C:\Users\gokal\source\repos\AlbumStore\bin\Debug\net6.0-windows\AlbumStore.exe
+C:\Users\gokal\source\repos\AlbumStore\bin\Debug\net6.0-windows\AlbumStore.deps.json
+C:\Users\gokal\source\repos\AlbumStore\bin\Debug\net6.0-windows\AlbumStore.runtimeconfig.json
+C:\Users\gokal\source\repos\AlbumStore\bin\Debug\net6.0-windows\AlbumStore.dll
+C:\Users\gokal\source\repos\AlbumStore\bin\Debug\net6.0-windows\AlbumStore.pdb
+C:\Users\gokal\source\repos\AlbumStore\obj\Debug\net6.0-windows\AlbumStore.dll
+C:\Users\gokal\source\repos\AlbumStore\obj\Debug\net6.0-windows\refint\AlbumStore.dll
+C:\Users\gokal\source\repos\AlbumStore\obj\Debug\net6.0-windows\AlbumStore.pdb
+C:\Users\gokal\source\repos\AlbumStore\obj\Debug\net6.0-windows\AlbumStore.genruntimeconfig.cache
+C:\Users\gokal\source\repos\AlbumStore\obj\Debug\net6.0-windows\ref\AlbumStore.dll
+C:\Users\gokal\source\repos\AlbumStore\obj\Debug\net6.0-windows\AlbumStore.HomeForm.resources
+C:\Users\gokal\source\repos\AlbumStore\obj\Debug\net6.0-windows\AlbumStore.ItemListForm.resources
+C:\Users\gokal\Desktop\Projects-Files\AlbumStore\bin\Debug\net6.0-windows\AlbumStore.exe
+C:\Users\gokal\Desktop\Projects-Files\AlbumStore\bin\Debug\net6.0-windows\AlbumStore.deps.json
+C:\Users\gokal\Desktop\Projects-Files\AlbumStore\bin\Debug\net6.0-windows\AlbumStore.runtimeconfig.json
+C:\Users\gokal\Desktop\Projects-Files\AlbumStore\bin\Debug\net6.0-windows\AlbumStore.dll
+C:\Users\gokal\Desktop\Projects-Files\AlbumStore\bin\Debug\net6.0-windows\AlbumStore.pdb
+C:\Users\gokal\Desktop\Projects-Files\AlbumStore\obj\Debug\net6.0-windows\AlbumStore.HomeForm.resources
+C:\Users\gokal\Desktop\Projects-Files\AlbumStore\obj\Debug\net6.0-windows\AlbumStore.Properties.Resources.resources
+C:\Users\gokal\Desktop\Projects-Files\AlbumStore\obj\Debug\net6.0-windows\AlbumStore.csproj.GenerateResource.cache
+C:\Users\gokal\Desktop\Projects-Files\AlbumStore\obj\Debug\net6.0-windows\AlbumStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gokal\Desktop\Projects-Files\AlbumStore\obj\Debug\net6.0-windows\AlbumStore.AssemblyInfoInputs.cache
+C:\Users\gokal\Desktop\Projects-Files\AlbumStore\obj\Debug\net6.0-windows\AlbumStore.AssemblyInfo.cs
+C:\Users\gokal\Desktop\Projects-Files\AlbumStore\obj\Debug\net6.0-windows\AlbumStore.csproj.CoreCompileInputs.cache
+C:\Users\gokal\Desktop\Projects-Files\AlbumStore\obj\Debug\net6.0-windows\AlbumStore.dll
+C:\Users\gokal\Desktop\Projects-Files\AlbumStore\obj\Debug\net6.0-windows\refint\AlbumStore.dll
+C:\Users\gokal\Desktop\Projects-Files\AlbumStore\obj\Debug\net6.0-windows\AlbumStore.pdb
+C:\Users\gokal\Desktop\Projects-Files\AlbumStore\obj\Debug\net6.0-windows\AlbumStore.genruntimeconfig.cache
+C:\Users\gokal\Desktop\Projects-Files\AlbumStore\obj\Debug\net6.0-windows\ref\AlbumStore.dll
+C:\Users\gokal\Desktop\Projects-Files\AlbumStore\obj\Debug\net6.0-windows\AlbumStore.DetailForm.resources
+C:\Users\gokal\Desktop\Projects-Files\AlbumStore\obj\Debug\net6.0-windows\AlbumStore.csproj.AssemblyReference.cache
+C:\Users\gokal\Desktop\Projects-Files\AlbumStore\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\gokal\Desktop\Projects-Files\AlbumStore\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\gokal\Desktop\Projects-Files\AlbumStore\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\gokal\Desktop\Projects-Files\AlbumStore\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\gokal\Desktop\Projects-Files\AlbumStore\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\gokal\Desktop\Projects-Files\AlbumStore\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\gokal\Desktop\Projects-Files\AlbumStore\obj\Debug\net6.0-windows\AlbumStore.csproj.Up2Date
+C:\Users\gokal\Desktop\Projects-Files\AlbumStore\obj\Debug\net6.0-windows\AlbumStore.TanimlamaForm.resources
+C:\Users\gokal\Desktop\Projects-Files\AlbumStore\obj\Debug\net6.0-windows\AlbumStore.SelectForm.resources
+C:\Users\gokal\Desktop\Projects-Files\AlbumStore\obj\Debug\net6.0-windows\AlbumStore.IzlemeForm.resources
+C:\Users\gokal\Desktop\Projects-Files\AlbumStore\obj\Debug\net6.0-windows\AlbumStore.Form1.resources
+C:\Users\gokal\Desktop\Projects-Files\AlbumStore\obj\Debug\net6.0-windows\AlbumStore.UrunTanimlamaForm.resources
+C:\Users\gokal\Desktop\Projects-Files\AlbumStore\obj\Debug\net6.0-windows\AlbumStore.UrunGuncellemeForm.resources
+C:\Users\gokal\Desktop\Projects-Files\AlbumStore\obj\Debug\net6.0-windows\AlbumStore.KrediİzlemeForm.resources
+C:\Users\gokal\Desktop\Projects-Files\AlbumStore\obj\Debug\net6.0-windows\AlbumStore.ÖdemeTablosuForm.resources
+C:\Users\gokal\Desktop\AlbumStore COPY\bin\Debug\net6.0-windows\AlbumStore.exe
+C:\Users\gokal\Desktop\AlbumStore COPY\bin\Debug\net6.0-windows\AlbumStore.deps.json
+C:\Users\gokal\Desktop\AlbumStore COPY\bin\Debug\net6.0-windows\AlbumStore.runtimeconfig.json
+C:\Users\gokal\Desktop\AlbumStore COPY\bin\Debug\net6.0-windows\AlbumStore.dll
+C:\Users\gokal\Desktop\AlbumStore COPY\bin\Debug\net6.0-windows\AlbumStore.pdb
+C:\Users\gokal\Desktop\AlbumStore COPY\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\gokal\Desktop\AlbumStore COPY\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\gokal\Desktop\AlbumStore COPY\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\gokal\Desktop\AlbumStore COPY\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\gokal\Desktop\AlbumStore COPY\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\gokal\Desktop\AlbumStore COPY\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\gokal\Desktop\AlbumStore COPY\obj\Debug\net6.0-windows\AlbumStore.csproj.AssemblyReference.cache
+C:\Users\gokal\Desktop\AlbumStore COPY\obj\Debug\net6.0-windows\AlbumStore.Form1.resources
+C:\Users\gokal\Desktop\AlbumStore COPY\obj\Debug\net6.0-windows\AlbumStore.DetailForm.resources
+C:\Users\gokal\Desktop\AlbumStore COPY\obj\Debug\net6.0-windows\AlbumStore.HomeForm.resources
+C:\Users\gokal\Desktop\AlbumStore COPY\obj\Debug\net6.0-windows\AlbumStore.IzlemeForm.resources
+C:\Users\gokal\Desktop\AlbumStore COPY\obj\Debug\net6.0-windows\AlbumStore.KrediİzlemeForm.resources
+C:\Users\gokal\Desktop\AlbumStore COPY\obj\Debug\net6.0-windows\AlbumStore.Properties.Resources.resources
+C:\Users\gokal\Desktop\AlbumStore COPY\obj\Debug\net6.0-windows\AlbumStore.SelectForm.resources
+C:\Users\gokal\Desktop\AlbumStore COPY\obj\Debug\net6.0-windows\AlbumStore.TanimlamaForm.resources
+C:\Users\gokal\Desktop\AlbumStore COPY\obj\Debug\net6.0-windows\AlbumStore.UrunGuncellemeForm.resources
+C:\Users\gokal\Desktop\AlbumStore COPY\obj\Debug\net6.0-windows\AlbumStore.UrunTanimlamaForm.resources
+C:\Users\gokal\Desktop\AlbumStore COPY\obj\Debug\net6.0-windows\AlbumStore.ÖdemeTablosuForm.resources
+C:\Users\gokal\Desktop\AlbumStore COPY\obj\Debug\net6.0-windows\AlbumStore.csproj.GenerateResource.cache
+C:\Users\gokal\Desktop\AlbumStore COPY\obj\Debug\net6.0-windows\AlbumStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gokal\Desktop\AlbumStore COPY\obj\Debug\net6.0-windows\AlbumStore.AssemblyInfoInputs.cache
+C:\Users\gokal\Desktop\AlbumStore COPY\obj\Debug\net6.0-windows\AlbumStore.AssemblyInfo.cs
+C:\Users\gokal\Desktop\AlbumStore COPY\obj\Debug\net6.0-windows\AlbumStore.csproj.CoreCompileInputs.cache
+C:\Users\gokal\Desktop\AlbumStore COPY\obj\Debug\net6.0-windows\AlbumStore.csproj.Up2Date
+C:\Users\gokal\Desktop\AlbumStore COPY\obj\Debug\net6.0-windows\AlbumStore.dll
+C:\Users\gokal\Desktop\AlbumStore COPY\obj\Debug\net6.0-windows\refint\AlbumStore.dll
+C:\Users\gokal\Desktop\AlbumStore COPY\obj\Debug\net6.0-windows\AlbumStore.pdb
+C:\Users\gokal\Desktop\AlbumStore COPY\obj\Debug\net6.0-windows\AlbumStore.genruntimeconfig.cache
+C:\Users\gokal\Desktop\AlbumStore COPY\obj\Debug\net6.0-windows\ref\AlbumStore.dll
